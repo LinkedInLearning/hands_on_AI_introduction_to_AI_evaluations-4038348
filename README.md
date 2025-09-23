@@ -1,9 +1,11 @@
 # Hands-On AI: Introduction to AI Evaluations
 This is the repository for the LinkedIn Learning course `Hands-On AI: Introduction to AI Evaluations`.  The full course is available on [LinkedIn Learning](https://www.linkedin.com/learning/).
 
-![hands-on-ai-introduction-to-ai-evaluations](assets/images/readme-banner.png)
-AI evaluation refers to the process of assessing the performance, accuracy, and reliability of AI models designed to generate content, such as text, images, music, or videos. Model evaluation metrics are crucial for assessing AI models to ensure they meet the desired objectives.  
-AI evaluation is a critical aspect of machine learning to ensure models perform as expected. Large language models, like GPT, Gemini, or Mistral, are evaluated to ensure that they produce coherent, high-quality outputs that meet the desired objectives without creating harmful or unethical content.
+![hands-on-ai-introduction-to-ai-evaluations][lil-thumbnail-url] 
+
+## Course Description
+
+AI agents are helping us achieve more and spend less. Although it's easier than ever to build AI agents, it can be challenging to evaluate their performance. In this course, generative AI advisor Mahesh Yadav shares techniques that allow you to go from zero to hero in evaluating AI agents. Learn how to set up your AI agent evaluation and scale it. Explore tricks and tips that will save you time and money as you build an evaluation strategy for your AI agents and execute that strategy. When you complete this course, you'll have a comprehensive evaluation plan for testing AI agents.
 
 ---
 
@@ -45,3 +47,11 @@ To open any lab:
 
 **Mahesh Yadav**  
 *AI Product Manager*
+
+
+
+[0]: # (Replace these placeholder URLs with actual course URLs)
+
+[lil-course-url]: https://www.linkedin.com/learning/ai-evaluations-foundations-and-practical-examples
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4E0DAQE_LuvVRWygfA/learning-public-crop_675_1200/B4EZljATYAIMAc-/0/1758302648121?e=2147483647&v=beta&t=W3rB2yZZNWTx9ITHyVOaIQr7iL-YrTsGaGck3-izvNQ
+
